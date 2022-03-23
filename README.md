@@ -84,12 +84,12 @@
 
 *- Pertama Masukkan tag dropdown dan Menambahakan nama provinsi di dalam nya seperti berikut di hmtl nya.*
 
-[18.png](img/18.png)
+![18.png](img/18.png)
 
 lalu kita tambahkan style CSS agar tampilan lebih menarik.
 
-[19.png](img/19.png)
+![19.png](img/19.png)
 
 Dan hasil dari dropdown nya seperti berikut.
 
-[20.png](img/20.png)
+![20.png](img/20.png)
